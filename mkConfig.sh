@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pacman -Syu
-pacman -S sddm i3-wm nvim xrandr arandr polkit-kde-agent alacritty firefox discord spotify-installer pipewire wireplumber nitrogen rofi thunar flameshot xorg-xrdb sudo git nvida-open ttf-cascadia-code ttf-cascadia-code-nerd zsh neofetch keepass
+pacman -S sddm i3-wm nvim xrandr arandr polkit-kde-agent alacritty firefox discord spotify-installer pipewire wireplumber nitrogen rofi thunar flameshot xorg-xrdb sudo git nvida-open ttf-cascadia-code ttf-cascadia-code-nerd zsh neofetch keepass nodejs npm
 
 systemctl enable sddm.service
 systemctl enable NetworkManager.service
