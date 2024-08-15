@@ -55,16 +55,16 @@ blinking = "On"
 shape = "Beam"
 
 [font.bold]
-family = "Cascadia Code"
+family = "Caskaydia Cove NerdFont"
 style = "Bold"
 
 [font.bold_italic]
-family = "Cascadia Code"
+family = "Caskaydia Cove NerdFont"
 style = "Bold Italic"
 
 [font.italic]
-family = "Cascadia Code"
-style = "Cascadia Code"
+family = "Caskaydia Cove NerdFont"
+style = "Italic"
 
 [font.normal]
 family = "Caskaydia Cove NerdFont"
